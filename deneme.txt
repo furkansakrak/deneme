@@ -1,1 +1,6 @@
-jfugdgııudg
+git init
+git status
+git commit -m "mesaj"
+git remote add origin https://github.com/furkansakrak/deneme.git
+git branch -M master
+git push -u origin master
